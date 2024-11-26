@@ -1,9 +1,10 @@
 # Batch-Scripts
 
+Simple batch scripts that can be used to automate some processes.
+
 > [!NOTE]
 > Batch scripts only work on windows.
 
-Simple batch scripts that can be used to automate some processes.
 ## All scripts
 
 + USBCopy
