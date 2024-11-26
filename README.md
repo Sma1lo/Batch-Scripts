@@ -1,8 +1,8 @@
 # Batch-Scripts
 A simple scripts on batch.
 
-+USBCopy
++ USBCopy
 
-A program for copying files from one folder to another.
+  A program for copying files from one     folder to another.
 
 + WorldListGenerator
