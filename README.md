@@ -1,7 +1,7 @@
 # Batch-Scripts
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Batch scripts only work on windows.
 
 + USBCopy
 
