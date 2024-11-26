@@ -1,7 +1,7 @@
 # Batch-Scripts
 
-  > [!NOTE]
-  > Batch scripts only work on windows.
+> [!NOTE]
+> Batch scripts only work on windows.
 
 ## All scripts
 
