@@ -1,5 +1,8 @@
 # Batch-Scripts
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 + USBCopy
 
   A script for copying files from one     folder to another.
